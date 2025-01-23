@@ -28,7 +28,7 @@ The objective of this project is to build a blockchain-based bank loan managemen
 - **Check Loan Balance**: Retrieve loan details from the ledger.
 
 ## TODO
-Refer to `TODO.md` for remaining implementation tasks.
+Refer to `TODO.md` file for remaining implementation tasks.
 
 ## Submission
-Commit your code to the Github code repository
+Commit your code to the Github code repository and create PR
